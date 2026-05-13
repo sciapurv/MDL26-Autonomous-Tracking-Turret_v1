@@ -1,4 +1,4 @@
-# MDL-26 — Autonomous Tracking Turret
+# MDL-26 ▫️ Autonomous Tracking Turret
 
 ## 🔹 Overview
 **MDL-26** is an autonomous computer-vision tracking turret developed under **MantidelLabs**.
